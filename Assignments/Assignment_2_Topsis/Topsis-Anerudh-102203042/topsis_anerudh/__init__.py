@@ -1,1 +1,1 @@
-from .topsis_content import topsis_content
+from .topsis_cli import main
