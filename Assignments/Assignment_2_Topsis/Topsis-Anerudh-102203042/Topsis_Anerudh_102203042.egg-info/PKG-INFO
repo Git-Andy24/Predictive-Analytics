@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: Topsis-Anerudh-102203042
+Version: 0.1
+Summary: A Python package to perform TOPSIS analysis from CLI.
+Home-page: https://github.com/Git-Andy24/Predictive-Analytics/tree/main/Assignments/Assignment_2_Topsis/Topsis-Anerudh-102203042
+Author: AnerudhParthiShyam
+Author-email: anerudhs@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+
+# Topsis-Anerudh-102203042
+
+This package implements the TOPSIS method for multi-criteria decision analysis.
+
+## Installation
+```sh
+pip install Topsis-Anerudh-102203042

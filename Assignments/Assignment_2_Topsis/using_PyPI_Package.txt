@@ -1,0 +1,6 @@
+Install using: 
+pip install Topsis-Anerudh-102203042==0.1
+
+Run in cli using:
+topsis 102203042-data.csv "1,1,1,2,2" "+,+,-,-,+" 102203042-result.csv
+

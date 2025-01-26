@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = topsis_anerudh.topsis_cli:main

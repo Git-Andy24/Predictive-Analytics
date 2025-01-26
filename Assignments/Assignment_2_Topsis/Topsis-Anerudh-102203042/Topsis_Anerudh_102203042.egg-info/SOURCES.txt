@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+Topsis_Anerudh_102203042.egg-info/PKG-INFO
+Topsis_Anerudh_102203042.egg-info/SOURCES.txt
+Topsis_Anerudh_102203042.egg-info/dependency_links.txt
+Topsis_Anerudh_102203042.egg-info/entry_points.txt
+Topsis_Anerudh_102203042.egg-info/requires.txt
+Topsis_Anerudh_102203042.egg-info/top_level.txt
+tests/test_topsis.py
+topsis_anerudh/__init__.py
+topsis_anerudh/topsis_cli.py

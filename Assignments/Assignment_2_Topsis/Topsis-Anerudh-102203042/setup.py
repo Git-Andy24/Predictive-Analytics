@@ -8,7 +8,7 @@ setup(
     description="A Python package to perform TOPSIS analysis from CLI.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/Topsis-Anerudh-102203042",
+    url="https://github.com/Git-Andy24/Predictive-Analytics/tree/main/Assignments/Assignment_2_Topsis/Topsis-Anerudh-102203042",
     packages=find_packages(),
     install_requires=[
         "numpy",
